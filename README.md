@@ -1,2 +1,2 @@
-# stencilpro
+# easystencilpro
 Easy Stencil Pro
